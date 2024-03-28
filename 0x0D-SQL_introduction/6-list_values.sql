@@ -1,2 +1,3 @@
---lists row first_table 
-Select * FROM first_table;
+-- lists all rows of the table first_table
+-- all fields should be printed
+SELECT * FROM first_table;
